@@ -1,0 +1,1 @@
+# santateresita-odoo.sh

@@ -1,0 +1,3 @@
+[submodule "santateresita"]
+	path = santateresita
+	url = git@github.com:rocketgithub/santateresita.git
